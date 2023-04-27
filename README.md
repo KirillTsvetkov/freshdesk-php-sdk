@@ -38,12 +38,12 @@ $first = $all[0];
 
 To integrate this library into your application, use [Composer](https://getcomposer.org).
 
-Add `mpclarkson/freshdesk-php-sdk` to your **composer.json** file:
+Add `tsvetkov/freshdesk-php-sdk` to your **composer.json** file:
 
 ```json
 {
     "require": {
-        "mpclarkson/freshdesk-php-sdk": "dev-master"
+        "tsvetkov/freshdesk-php-sdk": "dev-master"
     }
 }
 ```
