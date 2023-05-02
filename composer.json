@@ -1,5 +1,5 @@
 {
-    "name": "tsvetkovk/freshdesk-php-sdk",
+    "name": "madsoftenterprise/freshdesk-php-sdk",
     "description": "PHP SDK for the Freshdesk API (v2)",
     "type": "library",
     "homepage": "https://github.com/mpclarkson/freshdesk-php-sdk",
@@ -12,9 +12,8 @@
             "homepage": "http://mpclarkson.github.io/"
         },
         {
-            "name": "Tsvetkov Kirill",
-            "email": "kirill.tsvetkov31@gmail.com",
-            "homepage": "https://github.com/KirillTsvetkov"
+            "name": "MadSoft",
+            "homepage": "https://github.com/madsoftenterprise"
         }
     ],
     "require": {
